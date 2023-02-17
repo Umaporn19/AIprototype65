@@ -17,3 +17,5 @@
 #### 5. คาบเรียนที่ 5 วันที่ 16 มกราคม 2566 ([การทำงานบน Github ร่วมกัน](https://github.com/Umaporn19/AIprototype65/blob/main/Lecture-%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88-16-%E0%B8%A1%E0%B8%81%E0%B8%A3%E0%B8%B2%E0%B8%84%E0%B8%A1-2566.pdf))
 
 #### 6. คาบเรียนที่ 6 วันที่ 23 มกราคม 2566 ([Deep learning](https://github.com/Umaporn19/AIprototype65/blob/main/Lecture-%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88-23-%E0%B8%A1%E0%B8%81%E0%B8%A3%E0%B8%B2%E0%B8%84%E0%B8%A1-2566.pdf))
+
+#### 7. คาบเรียนที่ 7 วันที่ 13 กุมภาพันธ์ 2566 ([เพิ่มเติมการเทรนเล็กน้อย + Install Miniconda + ใช้งาน .py (รอแป๊ะลิงก์) ](รอแป๊ะลิงก์))
