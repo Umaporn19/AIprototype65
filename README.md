@@ -24,4 +24,4 @@
 
 #### 9. คาบเรียนที่ 9 พี่อั่ยสอนทำเว็บเพจ ([WebPage](https://github.com/Umaporn19/AIprototype65/blob/main/Web-page-%E0%B8%9E%E0%B8%B5%E0%B9%88%E0%B9%84%E0%B8%AD%E0%B9%88%E0%B8%AA%E0%B8%AD%E0%B8%99.pdf))
 
-#### 10. คาบเรียนที่ 9 วันที่ 20 กุมภาพันธ์ 2566 ([ขั้นตอนการสร้าง Web App ](https://github.com/Umaporn19/AIprototype65/blob/main/Lecture%20%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88%2013%20%E0%B8%A1%E0%B8%B5%E0%B8%99%E0%B8%B2%E0%B8%84%E0%B8%A1%202566%20WebApp.pdf))
+#### 10. คาบเรียนที่ 10 วันที่ 13 มีนาคม 2566 ([ขั้นตอนการสร้าง Web App ](https://github.com/Umaporn19/AIprototype65/blob/main/Lecture%20%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88%2013%20%E0%B8%A1%E0%B8%B5%E0%B8%99%E0%B8%B2%E0%B8%84%E0%B8%A1%202566%20WebApp.pdf))
